@@ -14,3 +14,12 @@
 
 Database in SQLite
 ![image](https://user-images.githubusercontent.com/71477601/149688152-e7064da8-5564-42e8-bd0e-eec750f32f46.png)
+
+Here I signed up a new user into my database 
+
+![image](https://user-images.githubusercontent.com/71477601/149982628-ca3dea49-431d-40ae-ba84-ba8e7146dacd.png)
+
+
+And Here I check my users registered in DB
+
+![image](https://user-images.githubusercontent.com/71477601/149982747-25940e19-8330-4354-a97d-be59c0b84cf7.png)
