@@ -30,5 +30,5 @@ Then in this page we review login and logout protocols in my system
 when the password and username concur. This website is shown
 
 ![image](https://user-images.githubusercontent.com/71477601/150234657-df4ec9fa-6f54-4886-91f3-cdf9e728e54f.png)
+![image](https://user-images.githubusercontent.com/71477601/150235749-3e7cfee6-8b31-45e5-8f0c-1fc37ff9eb7d.png)
 
-![image](https://user-images.githubusercontent.com/71477601/150234676-6bd07d8e-9936-4840-841e-95c0472e1a24.png)
