@@ -23,3 +23,12 @@ Here I signed up a new user into my database
 And Here I check my users registered in DB
 
 ![image](https://user-images.githubusercontent.com/71477601/149982747-25940e19-8330-4354-a97d-be59c0b84cf7.png)
+
+Then in this page we review login and logout protocols in my system
+![image](https://user-images.githubusercontent.com/71477601/150234585-8ab57f1b-0f4d-4ce1-bdaa-1c509803c025.png)
+
+when the password and username concur. This website is shown
+
+![image](https://user-images.githubusercontent.com/71477601/150234657-df4ec9fa-6f54-4886-91f3-cdf9e728e54f.png)
+![image](https://user-images.githubusercontent.com/71477601/150235749-3e7cfee6-8b31-45e5-8f0c-1fc37ff9eb7d.png)
+
