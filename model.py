@@ -6,7 +6,7 @@ def show_color(username):
         cursor = connection.cursor()
         cursor.execute(""" SELECT favorite_color FROM users WHERE username= '{username}' ORDER BY pk DESC;""".format(username = username))
         color = cursor.fetchone()[0]
-    
+
         connection.commit()
         cursor.close()
         connection.close()
@@ -24,6 +24,23 @@ def check_pw(username):
         connection.close()
         
         return password
+
+def check_users():
+        connection = sqlite3.connect('flask_tut.db', check_same_thread = False)
+        cursor = connection.cursor()
+        cursor.execute("""SELECT username FROM users ORDER BY pk DESC;""")
+        db_users = cursor.fetchall()
+        users = []
+
+        for i in range(len(db_users)):
+                person = db_users[i][0]
+                users.append(person)
+
+        connection.commit()
+        cursor.close()
+        connection.close()
+        
+        return users
 
 def signup(username, password,favorite_color):
         connection = sqlite3.connect('flask_tut.db', check_same_thread = False)
